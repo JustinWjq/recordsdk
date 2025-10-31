@@ -1,5 +1,7 @@
 ## 鸿蒙原生云端录屏解决方案
 
+https://github.com/user-attachments/assets/bf68fabe-85c1-436f-be25-af2263e201cc
+
 ### 功能特性
 
 使用鸿蒙原生底层录制能力，确保画面流畅稳定
@@ -45,5 +47,7 @@
 
 可以看看视频内容那个，具体细节可以加v了解。
 
-https://github.com/user-attachments/assets/5dc4d37c-de33-4dfa-b8ce-2d9f67fe6b25
+
+
+
 
